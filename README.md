@@ -20,7 +20,7 @@ pip install matplotlib
 
 ## Observations
 
-TBD
+Please find the observations from the project in the project report.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
