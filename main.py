@@ -3,7 +3,7 @@
 
 # Delhi data collected from wunderground datasets API
 # India data collected from data.gov.in (OSD)
-# Global weather data collected from _
+# Global weather data collected from Udacity Database
 
 import pandas as pd 
 import matplotlib.pyplot as plt
